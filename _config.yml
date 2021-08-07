@@ -21,16 +21,16 @@
 title: Daniel de Mercado | Mi blog
 email: danieldemercado.contacto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  ¡Bienvenido a mi blog! Aquí escribo sobre física y otras ciencias, tecnología, economía, criptomonedas... ¡y sobre cualquier otro tema que sea de mi interés
+  en ese momento!
 baseurl: "/mi-blog" # the subpath of your site, e.g. /blog
 url: "https://danieldemercado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danieldemercado
 github_username:  danieldemercado
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
