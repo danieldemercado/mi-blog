@@ -23,8 +23,8 @@ email: danieldemercado.contacto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ¡Bienvenido a mi blog! Aquí escribo sobre física y otras ciencias, tecnología, economía, criptomonedas... ¡y sobre cualquier otro tema que me 
   interese en ese momento!
-baseurl: "/mi-blog" # the subpath of your site, e.g. /blog
-url: "https://danieldemercado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl:  # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danieldemercado
 github_username:  danieldemercado
 
