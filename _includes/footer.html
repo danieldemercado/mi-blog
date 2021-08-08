@@ -10,17 +10,18 @@
         <ul class="contact-list">
           <li class="p-name">
             <!--
+            Shows the site author or title
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
             </li> -->
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}"> {{ site.email }}</a></li>
+            {%- endif -%}
             {%- if site.copyright -%}
             <li>&copy; {{ site.copyright }} - {{ 'now' | date: "%Y"}}</li>
-            {%- endif -%}
-            {%- if site.email -%}
-            <li><p style="font-size:14px;"><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></p></li>
             {%- endif -%}
         </ul>
       </div>
