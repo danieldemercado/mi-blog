@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Ondas gravitatorias y su detección - Mi Trabajo de Fin de Grado (TFG)"
+date:   2021-08-08 20:00:00 +0200
+categories: F&iacutesica
+permalink: /fisica/:day-:month-:year/:title:output_ext
+---
+
+## Resumen:
+
+Se realiza una revisión del formalismo que permite estudiar las ondas gravitatorias en el marco
+de la Relatividad General, exponiendo los resultados generales del límite de campo débil y otras
+situaciones menos restrictivas. Se plantean las fórmulas de radiación y su rango de validez, estudiando
+los procesos que generan estas ondas, así como las fuentes astrofísicas y cosmológicas detectadas
+o que se espera detectar y sus implicaciones para el desarrollo de la física. Posteriormente, se
+analizan los efectos que producen las ondas gravitatorias sobre masas prueba y sus aplicaciones
+para la construcción de detectores, concluyendo con un repaso general de los detectores existentes
+y los planificados para el futuro.
+
+## Abstract:
+
+A review of the formalism that allows the study of gravitational waves within the framework
+of General Relativity is carried out, exposing the general results of the weak field limit and other
+less restrictive situations. Radiation formulas and their validity range are considered, studying the
+processes that generate these waves, as well as the astrophysical and cosmological sources detected
+or expected to be detected and their implications for the development of physics. Subsequently, the
+effects that gravitational waves produce on test masses and their applications for the construction
+of detectors are analyzed, concluding with a general review of existing detectors and those planned
+for the future.
+
+
+### Acceso al documento completo:
+
+[Trabajo de Fin de Grado (TFG) - Ondas gravitatorias y su detección - Daniel de Mercado Raposo](/archivos/documentos/FT32_de_Mercado_Raposo_Daniel.pdf) 
