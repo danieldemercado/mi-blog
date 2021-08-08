@@ -21,12 +21,27 @@
 title: Daniel de Mercado | Mi blog
 email: danieldemercado.contacto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  ¡Bienvenido a mi blog! Aquí escribo sobre física y otras ciencias, tecnología, economía, criptomonedas... ¡y sobre cualquier otro tema que sea de mi interés
-  en ese momento!
+  ¡Bienvenido a mi blog! Aquí escribo sobre física y otras ciencias, tecnología, economía, criptomonedas... ¡y sobre cualquier otro tema que me 
+  interese en ese momento!
 baseurl: "/mi-blog" # the subpath of your site, e.g. /blog
 url: "https://danieldemercado.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danieldemercado
 github_username:  danieldemercado
+
+
+
+# Fields minima uses, but are not defaulted with the jekyll new command.
+#Author is the default for posts, the Atom feed, and is used in the footer.
+author: Daniel de Mercado
+linkedin_username: danieldemercado
+youtube_username: UC7lsg439P2qsLuFa6Gm5RSw
+
+
+
+# New fields not defaulted by jekyll-new wiht the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+copyright: "Daniel de Mercado"
+
 
 # Build settings
 # Removed minima theme as it is now a regular theme.
