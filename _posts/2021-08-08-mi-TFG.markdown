@@ -2,7 +2,7 @@
 layout: post
 title:  "Ondas gravitatorias y su detección - Mi Trabajo de Fin de Grado (TFG)"
 date:   2021-08-08 20:00:00 +0200
-categories: Física
+category: Física
 permalink: /fisica/:day-:month-:year/:title:output_ext
 ---
 
@@ -31,4 +31,4 @@ for the future.
 
 ### Acceso al documento completo (PDF):
 
-[Ondas gravitatorias y su detección - Daniel de Mercado Raposo](/archivos/documentos/FT32_de_Mercado_Raposo_Daniel.pdf) 
+[Ondas gravitatorias y su detección - Daniel de Mercado Raposo](/assets/documents/FT32_de_Mercado_Raposo_Daniel.pdf) 

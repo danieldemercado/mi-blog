@@ -3,14 +3,16 @@ layout: default
 ---
 
 <div class="home">
+  <!--                              
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">{{ page.title }}</h1>      Comentado para evitar que aparezca "Inicio" como título de la página.
   {%- endif -%}
+  -->
 
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 style="font-size:40px;" class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -28,7 +30,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">Suscríbete <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
   {%- endif -%}
 
 </div>
