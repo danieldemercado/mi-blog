@@ -1,0 +1,63 @@
+---
+layout: default
+title: PGP
+permalink: /pgp/    
+navigation_weight: 3    #Controla la posición que tienen los enlaces a las páginas en el header
+---
+
+# Mi clave PGP pública
+
+Fingerprint: BCBD E0D5 14CE DB6A B9B6  C3F0 DFC9 A3AD 732B 6896
+
+Long KeyID: DFC9 A3AD 732B 6896
+
+Short KeyID: 732B 6896
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQGNBF/bXcwBDADECV9KHp+JdSE4LoiFZGobFG4W9NFw4Q1y2vbMPLZSSufL3K+Z
+rafErpFGoxpu960bcBB7pp57faYKy/CYmb3XIX+kRVlYApI1djOeXN2rwY6DGwqh
+VvSafLN+29Pf3/SGevS5SfWjUyv2vqHWPyvnj+eh3A0BBWgGwiInBNu06bzG5DR2
+MrSHiIL2B26UtlShBrYSzDmrjd3v/RCHVKkBxZVAHcY+iyFn2QDAoqJ2YLcCxwu+
+WlQglMgaCyc1GDPhVRikOzMf/urlTrTI7XBnvwuNRLztAGgt/05/B9yDUYXs757i
+QoMjCwitVyPLN4XoFX68YnuYoiLi/cMadvWAJihc1eVjaJrX7uyjy64F2Feg3KGO
+LbHzs0z5cKMiSHesaZW840WC34PKxgpbhLDBR3A5K6NMAQXKlN+gUOtmZSAWoKKt
+DnTV+vNgzA8dttru1zh9Tyw04/MizCrsf8rQ2JevfHq+UxImCVMgswXLaQcpYAmJ
+Ix/TC2Qv8FiLNVcAEQEAAbQ5RGFuaWVsIGRlIE1lcmNhZG8gUmFwb3NvIDxkYW5p
+ZWxkZW1lcmNhZG9AcHJvdG9ubWFpbC5jb20+iQHUBBMBCgA+FiEEvL3g1RTO22q5
+tsPw38mjrXMraJYFAl/bXcwCGwMFCQPCZwAFCwkIBwIGFQoJCAsCBBYCAwECHgEC
+F4AACgkQ38mjrXMraJYqOQv+IFDTELv6VuwS6tL71isUGMlC3j/AENjjjyrTH1+N
+ZaoaJQGEi6cDxa0XZ+dEeZuv6mXHu7o2ZS7UIj84/PwiykzTarJeE17ShfmrMbYA
+yuX2Jc0v7P7FRiBulUpk/7lTg4wzYasiSrj4Pac1xbfEfGZDNL1mnCGWp05yeaM+
+evLm64KHPyMix7dLN5U12stndiFin5OAsruqiK0o2I/r56bS35Go/ZeyCKu5/L6L
+VeD67+b2m60jfa0gyckdfBDS3XDvcXDv4qLlvwTN8JFmonvRivphN8BEa4Ry9QJ0
+1ZDlGyolQBo+1LqpaX4d+k6t3jCEsInrdGf2ge1y0VTfbIjch9PeNzRCDyF6fKG8
+lL6/IeptTrPbTcrjWHZBN7+nkxUPo/xh9/56x2z+EIcGlLCPYWshyz0ROFcayjV7
+zqoPmeVBr2jaOPBytqELvgjQxiusRKCl55E3eWuUGBFDPEmU7Wk6ilNPpSMYuTL8
+JyITSK1soqrluIYEkyKpgikauQGNBF/bXcwBDAC7dxDQK1oiGsUqOaIekBVPzK8Q
+OvwkyRMbFlUCTXSS9X1ZOa4C+tNXhJRMwjMXroteM9gxxGpHwhw4HMyPQWxEDqi8
+JMKJF2sbQBljvbWnKWQz7g5/ibAWL82HyqNmoYO101G6KVHpEDqdoOEbY3WJhxyk
+8+TcUvhR7rsqmXlsv7Ag3+nrEc/DQ5IpCzRJ1NhqFY7AI+HkfXwR3oUoNYhrBzux
+/lGLEeFa/XNfytB4TjbY5T1KL3A9wvUtDoku7ZrULkvUwDSwCtFjsHXHnFYsTJJH
+UFyH5iEmuB1y0G/SXbJgbVqL8J4N+of53tCGQuJ5fRrsIIyTO5GbYmd1GLhgkPA8
+AhuXOZ+jXFBEWS8lbts4x37u38rs+cvTHB7y4QB2MLM1BioHX7Rtur2tTdEti4RY
+KS0diF6tRvTRUDvIr6U7FQux+jAXRa+d/dzjkMh5z0W4+iE6/ihwphRh/GQwNVKN
+hQNVcdYoYyiO/Xf3mhTlf9tBYswHseX2urc1mYsAEQEAAYkBvAQYAQoAJhYhBLy9
+4NUUzttqubbD8N/Jo61zK2iWBQJf213MAhsMBQkDwmcAAAoJEN/Jo61zK2iWxmkL
+/RknF1Fmt4WNTSU4iUvHwHlCdZmqvZrPQLMBSOTcNLFByID4SGiq7HKzvGGaJZel
+yODeiflOzBxCIcUTvaws4TYu6hwio5uzKTSRrw8fC8R74ZUJFJWaGVsUCg3TDrM5
+gFQTtk7CG9orRsUOPq9QeJEk3OwcgytJPY3wtU/6CRGD5HpeqOMeH3qYhMt7Ec1o
+uMyx9x0olLCZ0K3u+3rs3XBz0aMswHaz3MKbNispjG7jejqC9bs33PfjrPph/hxr
++5uWTzZsvw9YAZmuO+uQ9wuMce4dm4wsxBLdOTzNjPdL5+e4H/CjaQLQYXsVS3z+
+E+t1MDaULP68K8I0ELNHAZwLyETTGKKZR3fEQqRldoDvLoi+WaJzvvsxwX88mOjL
+LQr5SlVuIuPSmb4UEmPAF5zETKbTZ9R684rmwfaPd4XO9BP+IHfETyu9P6mcDcIW
+2VGNAnN2CMb6XWasBbWw0ibUskA21Xew7zf2OAJ2mqthzyJmLCRQTLIVSBNgfW8a
+3Q==
+=JMEj
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+## ¿No sabes qué es PGP?
+
+Pretty Good Privacy (PGP) es un sistema de cifrado asimétrico que proporciona capacidades de autenticación y privacidad criptográficas para la comunicación de datos. PGP se utiliza para firmar, cifrar y descifrar textos, correos electrónicos, archivos, directorios y particiones de disco completo y para aumentar la seguridad de las comunicaciones por correo electrónico. Fué desarrollado por Phil Zimmermann en 1991.
