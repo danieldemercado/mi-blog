@@ -32,3 +32,7 @@ for the future.
 ### Acceso al documento completo (PDF):
 
 [Ondas gravitatorias y su detección - Daniel de Mercado Raposo](/assets/documents/FT32_de_Mercado_Raposo_Daniel.pdf) 
+
+<center><img src="/assets/images/Ondas_gravitacionales_sistema_binario.gif" width="600" /></center>
+<center>Ondas gravitatorias emitidas por un sistema estelar binario.</center>
+
