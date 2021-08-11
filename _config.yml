@@ -48,6 +48,7 @@ copyright: "Daniel de Mercado"
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap    #Añadido para crear sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
