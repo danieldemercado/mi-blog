@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Daniel de Mercado | Mi blog
+title: Daniel de Mercado - Mi blog         #Aquí se usa una "-" para que el nombre aparezca así en la búsqueda de google.
 email: danieldemercado.contacto@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   ¡Bienvenido a mi blog! Aquí escribo sobre física y otras ciencias, tecnología, economía, criptomonedas... ¡y sobre cualquier otro tema que me 

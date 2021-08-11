@@ -3,7 +3,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ "Daniel de Mercado | Mi blog" | escape }}</a>  <!-- Para que el título se actualice al cambiarlo en _config.yml, cambiar "Daniel de Mercado | Mi blog" por site.title -->
 
     {%- if page_paths -%}
       <nav class="site-nav">
