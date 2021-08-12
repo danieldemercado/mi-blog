@@ -60,4 +60,4 @@ sg==
 
 ## ¿No sabes qué es PGP?
 
-Pretty Good Privacy (PGP) es un sistema de cifrado asimétrico que proporciona capacidades de autenticación y privacidad criptográficas para la comunicación de datos. PGP se utiliza para firmar, cifrar y descifrar textos, correos electrónicos, archivos, directorios y particiones de disco completo y para aumentar la seguridad de las comunicaciones por correo electrónico. Fué desarrollado por Phil Zimmermann en 1991.
+[Pretty Good Privacy (PGP)](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) es un sistema de cifrado asimétrico que proporciona capacidades de autenticación y privacidad criptográficas para la comunicación de datos. PGP se utiliza para firmar, cifrar y descifrar textos, correos electrónicos, archivos, directorios y particiones de disco completo... Fué desarrollado por Phil Zimmermann en 1991.
