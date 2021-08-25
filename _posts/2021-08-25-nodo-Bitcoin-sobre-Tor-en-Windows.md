@@ -10,7 +10,7 @@ Ejecutar tu propio nodo Bitcoin tiene un objetivo principal: apoyar a la red Bit
 Tu nodo puede convertirse en una valiosa herramienta para aumentar la privacidad en tus comunicaciones con el protocolo Bitcoin, incrementando así tu libertad y tu soberanía. Esto lo explica muy bien [@lunaticoin](https://twitter.com/lunaticoin) en el siguiente podcast:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C-razUWyUs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/C-razUWyUs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>  
 
 <br>
 Para alcanzar esta mayor privacidad, es necesario ejecutar tu nodo Bitcoin sobre la red Tor. Existen muchas guías y tutoriales para hacer esto en Linux, pero no he encontrado ninguna guía clara para Windows. Tras varios días rompiéndome la cabeza, he conseguido montar satisfactoriamente mi nodo sobre Tor en Windows. Te dejo aquí abajo los pasos que he seguido, espero que te sean de ayuda si decides montar tu propio nodo. 
