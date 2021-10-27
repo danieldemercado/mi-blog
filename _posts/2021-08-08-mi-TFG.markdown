@@ -4,6 +4,7 @@ title:  "Ondas gravitatorias y su detección - Mi Trabajo de Fin de Grado (TFG)"
 date:   2021-08-08 20:00:00 +0200
 category: Física
 permalink: /fisica/:day-:month-:year/:title:output_ext
+comments: true
 ---
 
 ## Resumen:

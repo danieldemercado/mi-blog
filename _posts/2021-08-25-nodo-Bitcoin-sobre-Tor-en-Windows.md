@@ -4,6 +4,7 @@ title:  "Cómo ejecutar un nodo Bitcon sobre Tor en Windows"
 date:   2021-08-25 19:30:00 +0200
 category: Bitcoin
 permalink: /Bitcoin/:day-:month-:year/:title:output_ext
+comments: true
 ---
 
 Ejecutar tu propio nodo Bitcoin tiene un objetivo principal: apoyar a la red Bitcoin y ayudar a su descentralización. Sin embargo, la cosa no termina ahí.
