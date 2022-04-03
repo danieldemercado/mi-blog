@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cómo ejecutar un nodo Bitcon sobre Tor en Windows"
+title:  "Cómo ejecutar un nodo Bitcoin sobre Tor en Windows"
 date:   2021-08-25 19:30:00 +0200
 category: Bitcoin
 permalink: /Bitcoin/:day-:month-:year/:title:output_ext
