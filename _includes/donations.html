@@ -1,0 +1,3 @@
+<ul class="donation-methods-list">
+    {%- if site.bitcoin_tippin_me_card -%}<li><a href="https://tippin.me/@{{ site.bitcoin_tippin_me_card| cgi_escape | escape }}"><img src="{{ 'assets/Bitcoin_lightning.png' | relative_url }}" alt=" bitcoin (lightning)" /></a></li>{%- endif -%}
+</ul>

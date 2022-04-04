@@ -121,6 +121,26 @@
   margin-left: 0;
 }
 
+.donations {
+  @include relative-font-size(1.1);
+  margin-bottom: $spacing-unit / 6;
+  color:#111;
+}
+
+.donation-methods-list{
+  list-style: none;
+  margin-left: 0;
+  img {
+    width: 140pt;
+  }
+}
+
+.social-networks{
+  @include relative-font-size(1.1);
+  margin-bottom: $spacing-unit / 6;
+  color:#111;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;

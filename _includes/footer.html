@@ -23,10 +23,14 @@
             {%- if site.copyright -%}
             <li>&copy; {{ site.copyright }} - {{ 'now' | date: "%Y"}}</li> <!-- update -->
             {%- endif -%}
+
         </ul>
+        <h2 class="donations">Propinas</h2>
+        {%- include donations.html -%}
       </div>
 
       <div class="footer-col footer-col-2">
+        <h2 class="social-networks">Redes sociales</h2>
         {%- include social.html -%}
       </div>
 
