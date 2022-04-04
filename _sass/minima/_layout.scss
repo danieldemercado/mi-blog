@@ -135,6 +135,10 @@
   }
 }
 
+.donation-methods-list:hover img {
+  filter: brightness(92%);
+}
+
 .social-networks{
   @include relative-font-size(1.1);
   margin-bottom: $spacing-unit / 6;
