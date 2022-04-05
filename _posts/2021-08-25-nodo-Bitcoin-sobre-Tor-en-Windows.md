@@ -87,7 +87,7 @@ Si has instalado Tor Browser en el directorio predeterminado (tu escritorio) eje
 
 8. Ejecuta Tor Browser y asegúrate de que esté conectado a la red Tor.
 
-9. Ejecuta Bitcoin Core. La primera puede que tarde unos minutos hasta conectarse con los primeros nodos. Si tras esperar continúa sin conectarse, cierra Bitcoin Core y borra los archivos `peers.dat` y `onion_v3_private_key` del directorio `\Users\%UserProfile%\AppData\Roaming\Bitcoin` (el mismo directorio donde se guarda el archivo de configuración de Bitcoin Core) y vuelve a ejecutar Bitcoin Core.
+9. Ejecuta Bitcoin Core. La primera vez puede que tarde unos minutos hasta conectarse con los primeros nodos. Si tras esperar continúa sin conectarse, cierra Bitcoin Core y borra los archivos `peers.dat` y `onion_v3_private_key` del directorio `\Users\%UserProfile%\AppData\Roaming\Bitcoin` (el mismo directorio donde se guarda el archivo de configuración de Bitcoin Core) y vuelve a ejecutar Bitcoin Core.
 
 10. (Opcional) Para que Tor Browser se ejecute al iniciar Windows, presiona las teclas `Windows + R` y se abrirá una pequeña pestaña denominada “Ejecutar” (si esta combinación de teclas no funciona puedes buscar en Windows la aplicación “Ejecutar”). En esta pestaña escribe el comando `shell:startup`, lo que abrirá una carpeta. Si pegas en esta carpeta un acceso directo a Tor Browser (o cualquier otro programa), este será ejecutado al iniciar Windows.
 
