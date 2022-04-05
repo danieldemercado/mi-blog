@@ -132,11 +132,13 @@
   margin-left: 0;
   img {
     width: 140pt;
+    margin-bottom: 3.5pt;
   }
 }
 
-.donation-methods-list:hover img {
-  filter: brightness(92%);
+.bitcoin-address:hover img,
+.bitcoin-lightning:hover img {
+  filter: brightness(90%);
 }
 
 .social-networks{
