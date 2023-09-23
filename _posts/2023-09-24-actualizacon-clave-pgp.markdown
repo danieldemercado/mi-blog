@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Actualización de mi clave PGP"
-date:   2023-09-23 23:30:00 +0200
+date:   2023-09-24 01:30:00 +0000
 category: Criptografía
 permalink: /criptografia/:day-:month-:year/:title:output_ext
 comments: true
