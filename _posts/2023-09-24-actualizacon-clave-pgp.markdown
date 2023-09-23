@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Actualización de mi clave PGP"
-date:   2023-09-24 01:30:00 +0200
+date:   2023-09-23 23:30:00 +0200
 category: Criptografía
 permalink: /criptografia/:day-:month-:year/:title:output_ext
 comments: true
@@ -72,3 +72,6 @@ t/XhEil4hxZ9MT/PoSOCmCOw6FEha70eJv8=
 =4Kh5
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+## Mi ANTIGUA clave PGP
+
+Mi antigua clave BCBDE0D514CEDB6AB9B6C3F0DFC9A3AD732B6896 queda por tanto en desuso.
