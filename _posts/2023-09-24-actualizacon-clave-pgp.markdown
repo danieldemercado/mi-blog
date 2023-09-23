@@ -6,7 +6,6 @@ category: Criptografía
 permalink: /criptografia/:day-:month-:year/:title:output_ext
 comments: true
 ---
-# Actualización de mi clave PGP
 
 He actualizado mi clave PGP. A partir de ahora mi clave personal pasa a ser la siguiente clave RSA de 4096 bits:
 
