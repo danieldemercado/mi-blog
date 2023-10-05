@@ -343,7 +343,7 @@
   }
 
   /* Consulta de medios para tamaños de pantalla <= 600px */
-  @media (max-width: 600px) {
+  @media (max-width: 650px) {
     .post-item {
       flex-direction: column;  /* Cambia la dirección del flexbox para apilar los elementos verticalmente */
       align-items: flex-start;  /* Alinea los elementos al inicio del eje cruzado (izquierda, en este caso) */
