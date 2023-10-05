@@ -15,20 +15,31 @@ layout: default
     <h2 style="font-size:35px;" class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
+      <li class="post-item">
+        <div class="post-info">
+          {%- assign date_format = site.minima.date_format | default: "%d-%m-%Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+        </div>
+
+        {%- if post.image -%}
+        <a href="{{ post.url | relative_url }}" class="post-image-link">
+          <div class="post-image" style="background-image: url('{{ post.image | relative_url }}');"></div>
+        </a>
+        {%- endif -%}
+    
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
+    
 
     <p class="rss-subscribe">Suscríbete <a href="{{ "/feed.xml" | relative_url }}">vía RSS</a></p>
   {%- endif -%}

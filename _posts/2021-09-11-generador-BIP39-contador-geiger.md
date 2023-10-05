@@ -2,6 +2,7 @@
 layout: post
 title:  "Generando mnemónicos BIP39 de Bitcoin con un contador Geiger"
 date:   2021-09-11 20:00:00 +0200
+image:  "/assets/images/GeigerBIP39Generator.png"
 category: Bitcoin
 permalink: /Bitcoin/:day-:month-:year/:title:output_ext
 comments: true

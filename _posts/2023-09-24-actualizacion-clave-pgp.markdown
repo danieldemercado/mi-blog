@@ -2,10 +2,13 @@
 layout: post
 title:  "Actualización de mi clave PGP"
 date:   2023-09-24 00:00:00 +0200
+image: "/assets/images/Actualización_mi_clave_pgp.png"
 category: Criptografía
 permalink: /criptografia/:day-:month-:year/:title:output_ext
 comments: true
 ---
+<center><img src="/assets/images/Actualización_mi_clave_pgp.png" /></center>
+ <p style="line-height:0.9"> <font size="-1">Imagen generada por DALL·E 3 para este artículo.</font></p>
 
 He actualizado mi clave PGP. A partir de ahora mi clave personal pasa a ser la siguiente clave RSA de 4096 bits:
 

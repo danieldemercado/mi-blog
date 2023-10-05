@@ -2,6 +2,7 @@
 layout: post
 title:  "Sobre los soldados rusos con síndrome de irradiación aguda evacuados de Chernóbil"
 date:   2022-04-01 18:00:00 +0200
+image: "/assets/images/soldados-rusos-Chernobil/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg"
 category: Física
 permalink: /fisica/:day-:month-:year/:title:output_ext
 comments: true
