@@ -21,6 +21,7 @@ gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "webrick"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -35,3 +36,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Para generar un archivo sitemap para los buscadores
 gem 'jekyll-sitemap'
+
+# Resolve issue related to the untaint method
+gem 'liquid', '~> 4.0.4'
+
