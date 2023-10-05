@@ -136,6 +136,13 @@
   }
 }
 
+
+.bitcoin-address img,
+.bitcoin-lightning img {
+  /* Especificar que queremos una transición en la propiedad filter */
+  transition: filter 0.30s ease-in-out;
+}
+
 .bitcoin-address:hover img,
 .bitcoin-lightning:hover img {
   filter: brightness(90%);
@@ -294,44 +301,76 @@
   }
 }
 
-.post-list{
+.post-list {
   .post-item {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Añadido para separar la imagen y el texto */
-    margin-bottom: 20px; /* Añade espacio entre los elementos de la lista de posts */
+    justify-content: space-between;
+    margin-bottom: 20px;
   }
-  
+
   .post-image-link {
-    flex-shrink: 0; /* Evita que la imagen se encoja si el contenido a su lado es más grande */
-    width: 336px; 
+    flex-shrink: 0;
+    width: 336px;
     height: 189px;
     margin-left: 20px;
     margin-right: 10px;
     overflow: hidden;
-    border-radius: 10px; /* Añadido para bordes redondeados */
+    border-radius: 10px;
   }
-  
+
   .post-image {
     width: 100%;
     height: 100%;
     background-size: cover;
     background-position: center;
     transition: transform 0.35s ease-in-out;
-    border-radius: 10px; /* Añadido para bordes redondeados */
+    border-radius: 10px;
   }
-  
+
   .post-info {
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Alinea verticalmente el contenido en el centro */
+    justify-content: center;
   }
 
   .post-image-link:hover .post-image {
     transform: scale(1.04);
   }
 
-  .post-link, .post-meta{
+  .post-link, .post-meta {
     margin-left: 10px;
+  }
+
+  /* Consulta de medios para tamaños de pantalla <= 600px */
+  @media (max-width: 600px) {
+    .post-item {
+      flex-direction: column;  /* Cambia la dirección del flexbox para apilar los elementos verticalmente */
+      align-items: flex-start;  /* Alinea los elementos al inicio del eje cruzado (izquierda, en este caso) */
+    }
+
+    .post-image-link,
+    .post-info {
+      margin: 0;  /* Remueve márgenes adicionales */
+      width: 100%;  /* Ocupa todo el ancho disponible */
+    }
+
+    .post-image-link {
+      margin-bottom: 7px;  /* Añade un pequeño margen en la parte superior para espacio entre el texto y la imagen */
+    }
+
+    .post-link, .post-meta {
+      margin-left: 0;  /* Remueve el margen izquierdo para estos elementos en móviles */
+    }
+
+    .post-meta {
+      @include relative-font-size(1);
+      color: $grey-color;
+    }
+    
+    .post-link {
+      display: block;
+      @include relative-font-size(1.5);
+    }
   }
 }
